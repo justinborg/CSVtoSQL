@@ -11,3 +11,5 @@ Example of Usage:
 <pre>
 <b>python CSVtoSQL.py input_csv_file.csv output_sql_file.sql temp_schema.temp_table</b>
 </pre>
+
+**Feel free to contribute :wink:**
